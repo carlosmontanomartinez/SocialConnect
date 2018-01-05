@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\cmontano\\source\\repos\\SocialConnect\\SocialConnect\\SocialConnect.csproj",
+      "projectUniqueName": "C:\\Users\\cmontano\\source\\repos\\SocialConnect\\SocialConnect\\SocialConnect.csproj",
       "projectName": "SocialConnect",
-      "projectPath": "c:\\users\\cmontano\\source\\repos\\SocialConnect\\SocialConnect\\SocialConnect.csproj",
+      "projectPath": "C:\\Users\\cmontano\\source\\repos\\SocialConnect\\SocialConnect\\SocialConnect.csproj",
       "packagesPath": "C:\\Users\\cmontano\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\cmontano\\source\\repos\\SocialConnect\\SocialConnect\\obj\\",
+      "outputPath": "C:\\Users\\cmontano\\source\\repos\\SocialConnect\\SocialConnect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/SocialConnect/v15/Server/sqlite3/db.lock
+/SocialConnect/bin/Debug/netcoreapp2.0
+/SocialConnect/obj/Debug/netcoreapp2.0
